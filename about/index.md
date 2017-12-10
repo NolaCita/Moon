@@ -9,26 +9,17 @@ comments: false
 <center><a href="http://nolacita.github.io/nolacita"><b>Nola Cita</b></a> merupakan mahasiswa di UIN Suska Riau, Jurusan Sistem Informasi</center>
 
 ## Profil
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Nama    : Nola Cita Putri 
+Tempat, Tanggal Lahir    : Balai Tengah, 07 Januari 1996
+Agama   : ISLAM
+Alamat  : Jl. Sekolah, Rt. 1 Rw. 3 Dusun II Keramat Sakti, Desa Kubang Jaya Kecematan Siak Hulu Kabupaten Kampar
+Pendidikan :
+* SD    :Sekolah Dasar Negeri 028 Kubang Jaya
+* SMP   :Sekolah Menengah Pertama Negeri 1 Siak Hulu
+* SMA/K   :Sekolah Menengah Kejuruan KANSAI Pekanbaru
+* Universitas   :Universitas Islam Negeri Sultan Syarif Kasim Riau
+* Fakultas   : Sains dan Teknologi
+* Program Studi   : Sistem Informasi
 
 ## Getting Started
 
